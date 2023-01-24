@@ -1,8 +1,6 @@
-![wallpapersden com_galaxies-pixel-art_2560x1024](https://user-images.githubusercontent.com/62053026/214363359-8f30452f-32e5-4c9f-a689-5e4e56ee82a3.jpg)
-
+![wallpapersden com_galaxies-pixel-art_2560x1024_edited](https://user-images.githubusercontent.com/62053026/214365799-f3f790e3-879a-4ac9-9ae3-00087524923b.jpg)
 
 > "Talk is cheap, show me the code"
-> 
 >  - Linus Torvalds
 
 # Greetings

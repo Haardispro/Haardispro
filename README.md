@@ -18,3 +18,5 @@ I am Haard Majmudar. I like to code cool stuff and mess around with Linux. I lov
 - Linux
 
 **Currently working on:** [Pixarch](https://github.com/heisenburgh/pixarch)
+
+**Check out my Youtube Channel for more cool stuff:** [Haard Majmudar](https://www.youtube.com/channel/UCsI79ri6eHKmeOsMTxSc8hQ)

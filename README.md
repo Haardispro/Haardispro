@@ -1,4 +1,5 @@
-![d9e141c49b6e9e98b973b5b85ceac1c0](https://user-images.githubusercontent.com/62053026/214363076-6d836475-4636-4213-a254-25db764e7c59.gif)
+![wallpapersden com_galaxies-pixel-art_2560x1024](https://user-images.githubusercontent.com/62053026/214363359-8f30452f-32e5-4c9f-a689-5e4e56ee82a3.jpg)
+
 
 > "Talk is cheap, show me the code"
 > 

@@ -17,4 +17,4 @@ I am Haard Majmudar. I like to code cool stuff and mess around with Linux. I lov
 
 - Linux
 
-Currently working on: [Pixarch](https://github.com/heisenburgh/pixarch)
+**Currently working on:** [Pixarch](https://github.com/heisenburgh/pixarch)

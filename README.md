@@ -1,3 +1,5 @@
+![d9e141c49b6e9e98b973b5b85ceac1c0](https://user-images.githubusercontent.com/62053026/214363076-6d836475-4636-4213-a254-25db764e7c59.gif)
+
 > "Talk is cheap, show me the code"
 > 
 >  - Linus Torvalds
